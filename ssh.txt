@@ -4,3 +4,11 @@ ssh myname@my.ip.address
 mypassword
 
 and vualiaaaaaaaa
+
+
+and then I activated kali linux on my virtual box, so I connected to kal linux via mac, and it is really cool! 
+
+I like it!
+
+
+And I found out that mac does not let login remotely so you have to go to settings and turn it on manually, I think it is good and safe!
