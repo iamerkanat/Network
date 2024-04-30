@@ -1,0 +1,6 @@
+Today I have learned SSH, so I really used termius on my mac, and connected to my windows laptop:
+
+ssh myname@my.ip.address
+mypassword
+
+and vualiaaaaaaaa
