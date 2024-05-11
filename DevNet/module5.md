@@ -1,0 +1,1 @@
+Completed module#5 right now, it was funny to repeate Networking Essentials. I have repeated many useful things from past when I did have space in some topics so now I fully understand!
