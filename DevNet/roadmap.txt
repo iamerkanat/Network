@@ -1,0 +1,3 @@
+3. Project Management kinda stuff, SDLC
+4. Basics of API, what is it in real
+5. Network Basics
