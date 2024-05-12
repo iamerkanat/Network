@@ -1,0 +1,1 @@
+Here I have learned the foundations of Project MANAGEMENT, and special techniques to deal with stakeholders and sponsor and other kinds of aspects
