@@ -2,3 +2,4 @@
 4. Basics of API, what is it in real
 5. Network Basics
 6. Container
+7. real automation
