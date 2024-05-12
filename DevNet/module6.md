@@ -1,0 +1,2 @@
+I think it is about container Docker, because it was beginning with four-tier structure. 
+to be continued... I will continue just need to learn, btw tomorrow at 10AM I am going to take an Django exam so before preparing for Django test I thought that I have to finish DevNet plan, for today I had to finish module6 & 7. Even if I read until the middle part of module7 it will be okay I think
