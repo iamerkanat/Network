@@ -1,3 +1,3 @@
-11 May 2024, 23:59:48: feeling tired
-12 May 2024, 23:48:45: it is okay, I think I got it
-13 May 2024, 23:44:45: I took my session of Django, yes!!! I made it! I prepared for this all night and took in 9 minutes and got 93/100
+#11 May 2024, 23:59:48: feeling tired
+#12 May 2024, 23:48:45: it is okay, I think I got it
+#13 May 2024, 23:44:45: I took my session of Django, yes!!! I made it! I prepared for this all night and took in 9 minutes and got 93/100. Well, 30 questions, well it was easy and okay, thank God! 
